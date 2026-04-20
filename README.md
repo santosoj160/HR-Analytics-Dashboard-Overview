@@ -76,6 +76,7 @@ To provide actionable insights into employee attrition and workforce distributio
 - The dataset used in this project is for learning and demonstration purposes  
 - This project is part of a data analytics portfolio  
 
+If you have any suggestions or feedback, please don't hesitate to contact to me in direct message on Email or LinkedIn: santosoj160@gmail.com or www.linkedin.com/in/joko-santoso-484769144
 ---
 
 ## 👤 Author
