@@ -23,9 +23,10 @@ The dashboard provides a comprehensive overview of key HR metrics to support dat
 - Male employees show slightly higher attrition compared to female employees
 
 ## 📷 Dashboard Preview
-Dashboard Overview.png
+[Dashboard Overview.png]
+
 ## 🔗 Tableau Public Link
-[https://public.tableau.com/views/HRANALYTICSDASHBOARD_17765590060570/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)]
+[https://public.tableau.com/views/HRANALYTICSDASHBOARD_17765590060570/HRAnalyticsDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
 
 ## 📁 Files
 - HR-Analytics-Dashboard.twbx
