@@ -45,7 +45,7 @@ The dashboard provides a comprehensive overview of key HR metrics to support dat
 ---
 
 ## 📷 Dashboard Preview
-![Dashboard](dashboard.png)
+![Dashboard](Dashboard.png)
 
 ---
 
