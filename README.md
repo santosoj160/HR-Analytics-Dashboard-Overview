@@ -41,7 +41,7 @@ The dashboard provides a comprehensive overview of key HR metrics to support dat
 
 🔗 Tableau Public Link
 
-[View Dashboard on Tableau Public](https://public.tableau.com/)
+[View Dashboard on Tableau Public]([https://public.tableau.com/](https://public.tableau.com/app/profile/joko.santoso6827/viz/HRANALYTICSDASHBOARD_17765590060570/HRAnalyticsDashboard?publish=yes))
 
 📁 Files Included
 
